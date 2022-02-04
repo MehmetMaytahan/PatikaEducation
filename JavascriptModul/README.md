@@ -1,4 +1,4 @@
-# Web Tasarım Geliştirme Ortamı Temel Kit
+# Patika Javascript Eğitim Modülü
 
 ---
 
@@ -9,13 +9,15 @@
 - Açılan Terminalde aşağıda ki işlemleri sırasıyla yapınız..
 
 ```
-1-) git clone https://github.com/MehmetMaytahan/Web-Beginning-Tool-Kit.git
+1-) git clone https://github.com/MehmetMaytahan/PatikaEducation.git
 
-2-) cd Web-Beginning-Tool-Kit
+2-) cd PatikaEducation
+
+3-) cd javascriptModul
 
 ------- Aşağıdaki kod kurulu ise Visual Studio Code'un açılmasını sağlar -------
 
-3-) code .
+4-) code .
 
 ```
 
@@ -25,7 +27,7 @@
 ```
 ------- Bu kodun çalışması için bilgisayarınız da Nodejs kurulu olması gerekiyor -------
 
-4-) npm install
+5-) npm install
 
 ```
 
@@ -34,7 +36,7 @@
 - Kurulum'u bitirdik, son adım projeyi çalıştırmak
 
 ```
-5-) npm start
+6-) npm start
 ```
 
 - Artık projemiz varsayılan tarayıcınızda http://localhost:3000 adresinde çalışmaya başlamıştır. İyi çalışmalar
