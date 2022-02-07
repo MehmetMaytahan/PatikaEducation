@@ -35,5 +35,4 @@ function showDate() {
   nameUser.innerHTML = `Merhaba,<strong> ${userName}! </strong> Hoş Geldin!`;
   clock.innerHTML = `${hour}:${minute}:${second} ${_day[day]} `;
 }
-
 setInterval(showDate, 1000);
